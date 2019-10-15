@@ -14,9 +14,7 @@
 			</batch:tasklet>
 		</batch:step>
 	</batch:job>
-	<bean id="cvsFileItemReader" class="org.springframework.batch.item.file.FlatFileItemReader">
-		<property name="resource" value=""></property>
-		
+	<bean id="">
 	</bean>
 
 </beans>
